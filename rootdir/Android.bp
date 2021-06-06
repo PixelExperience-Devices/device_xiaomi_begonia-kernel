@@ -7,14 +7,6 @@ prebuilt_etc {
 }
 
 prebuilt_etc {
-    name: "init.cccimdinit.rc",
-    src: "etc/init.cccimdinit.rc",
-    sub_dir: "init",
-    proprietary: true,
-
-}
-
-prebuilt_etc {
     name: "init.fmradio_drv.rc",
     src: "etc/init.fmradio_drv.rc",
     sub_dir: "init",

@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
 # Rootdir
 PRODUCT_PACKAGES += \
     init.bt_drv.rc \
-    init.cccimdinit.rc \
     init.fmradio_drv.rc \
     init.gps_drv.rc \
     init.udc_lib.rc \
