@@ -1,9 +1,3 @@
-#
-# Copyright (C) 2020 The PixelExperience Project
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-
 DEVICE_KERNEL_PATH := device/xiaomi/begonia-kernel
 
 # DTB
